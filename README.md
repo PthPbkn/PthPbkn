@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prasanth Prabhakaran
 - 👀 I’m interested in Web designing and development
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me pthakkarachalil@gmail.com
 
 <!---
