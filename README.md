@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prasanth Prabhakaran
+- 👋 <b>I’m Prasanth Prabhakaran </b>
 - 👀 I’m interested in Web designing and development
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on 
