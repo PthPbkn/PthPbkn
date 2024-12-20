@@ -1,6 +1,6 @@
 - 👋 <b>I’m Prasanth Prabhakaran </b>
-- 👀 I’m interested in Web designing and development
-- 🌱 I’m currently learning .Net Core
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning ASP.Net Core and Node.js
 - 📫 Reach me : pthakkarachalil@gmail.com
 
 <!---
